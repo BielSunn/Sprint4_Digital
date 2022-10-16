@@ -11,7 +11,7 @@ Entrega da Sprint 4 referente a matéria de Digital Business Enablement do Profe
 ----------------------------------------------------------------------------------------------------------------------------------------------- 
 
 # Link do vídeo e App
-- [Link vídeo Youtube]()
+- [Link vídeo Youtube](https://youtu.be/T_HWa2OHlpE)
 
 - [App Prikka](https://snack.expo.dev/@renatchos/prikka-app)
 
